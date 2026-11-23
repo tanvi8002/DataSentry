@@ -88,20 +88,6 @@ Open the local URL displayed in your terminal.
 
 A sample customer dataset is included in the `data` folder to demonstrate missing values, duplicate records and invalid age values.
 
-## Application Screenshots
-
-### DataSentry Dashboard
-
-![Dashboard](./screenshots/dashboard.png)
-
-### Data Quality Analysis
-
-![Data Quality](./screenshots/data_quality.png)
-
-### Data Cleaning
-
-![Data Cleaning](./screenshots/cleaning.png)
-
 ## Future Improvements
 
 - Add customizable data validation rules.
