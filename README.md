@@ -98,12 +98,12 @@ Tanvi Ranpise
 
 ### DataSentry Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](./screenshots/dashboard.png)
 
 ### Data Quality Analysis
 
-![Data Quality](screenshots/data_quality.png)
+![Data Quality](./screenshots/data_quality.png)
 
 ### Data Cleaning
 
-![Data Cleaning](screenshots/cleaning.png)
+![Data Cleaning](./screenshots/cleaning.png)
