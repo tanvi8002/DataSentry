@@ -93,3 +93,17 @@ A sample customer dataset is included in the `data` folder to demonstrate missin
 ## Author
 
 Tanvi Ranpise
+
+## Application Screenshots
+
+### DataSentry Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### Data Quality Analysis
+
+![Data Quality](screenshots/data_quality.png)
+
+### Data Cleaning
+
+![Data Cleaning](screenshots/cleaning.png)
