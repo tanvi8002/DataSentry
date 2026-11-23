@@ -1,0 +1,9 @@
+
+customer_id,name,email,age,city
+101,Aarav,aarav@gmail.com,24,Pune
+102,Priya,priya@gmail.com,26,Mumbai
+103,Rohan,,29,Nashik
+104,Neha,neha@gmail.com,25,Pune
+105,Neha,neha@gmail.com,25,Pune
+106,Anaya,anaya@gmail.com,,Mumbai
+107,Karan,karan@gmail.com,-5,Pune
