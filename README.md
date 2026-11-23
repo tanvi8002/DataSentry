@@ -31,6 +31,11 @@ DataSentry/
 ├── data/
 │   └── sample_customers.csv
 │
+├── screenshots/
+│   ├── dashboard.png
+│   ├── data_quality.png
+│   └── cleaning.png
+│
 ├── app.py
 ├── requirements.txt
 ├── README.md
@@ -42,7 +47,7 @@ DataSentry/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/tanvi8002/DataSentry.git
 ```
 
 ### 2. Open the project folder
@@ -83,17 +88,6 @@ Open the local URL displayed in your terminal.
 
 A sample customer dataset is included in the `data` folder to demonstrate missing values, duplicate records and invalid age values.
 
-## Future Improvements
-
-- Add customizable data validation rules.
-- Support more file formats.
-- Add SQL database connectivity.
-- Create advanced data quality dashboards.
-
-## Author
-
-Tanvi Ranpise
-
 ## Application Screenshots
 
 ### DataSentry Dashboard
@@ -107,3 +101,16 @@ Tanvi Ranpise
 ### Data Cleaning
 
 ![Data Cleaning](./screenshots/cleaning.png)
+
+## Future Improvements
+
+- Add customizable data validation rules.
+- Support more file formats.
+- Add SQL database connectivity.
+- Create advanced data quality dashboards.
+
+## Author
+
+**Tanvi Ranpise**
+
+GitHub: [tanvi8002](https://github.com/tanvi8002)
